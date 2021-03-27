@@ -4,7 +4,7 @@ Authorization server spring boot
 Collection PostMan no diretorio : src/main/resources/collection_postman  
 
 
-URL POST : localhost:8080/oauth/token 
+URL POST : http://localhost:8080/oauth/token 
 ```
 Basic Auth : 
   username : javainuse-client 
