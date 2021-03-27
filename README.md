@@ -39,6 +39,8 @@ Header
 
 Passar token do retorno ao serviço "oauth/token"
 
+Resposta : 
+
 ```json
 {
   "details": {
